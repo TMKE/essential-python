@@ -1,4 +1,4 @@
-# essential-python
+# Essential Python Course
 This repository contains a Python course for beginners.
 ## Content
 <ol>
